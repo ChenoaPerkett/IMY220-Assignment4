@@ -1,3 +1,4 @@
+//Chenoa Perkett u19109572
 $(document).ready(() => {
     $('.submit').on('click', () => {
         const message = $('#message').val();
